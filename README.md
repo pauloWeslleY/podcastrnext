@@ -1,3 +1,3 @@
 # podcastrnext
 
-## PodcastrNext - Projeto Desenvolvido com ´ReactJS - NextJS - SASS - TypeScript´
+## PodcastrNext - Projeto Desenvolvido com `ReactJS - NextJS - SASS - TypeScript`
